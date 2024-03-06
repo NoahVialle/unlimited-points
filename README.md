@@ -1,3 +1,17 @@
+FR /!\ Le projet a évolué depuis 7 mois le projet ne sera plus mis à jour sur github pour les raisons évoqué ci-dessous merci de vos référés aux divers réseaux sociaux du projet qui seront lancés dimanche 10 mars 2024 la page web devrait arriver entre le 10 et le 15 mars 2024 le discord communautaire et en ligne mais privé du 03/03 aux 10/03 2024 les Beta testeur y ont toujours accès l'équipe actuelle et définitive sera présenté le 10/03
+pourquoi ne plus laissait le code et le projet sur github :
+- le projet est maintenant plus propre et plus professionnel qu'avant avec en plus une vraie communication finit le petit projet sans réelle communication
+- le projet n'est plus un simple mod c'est un jeu maintenant pour des raisons évidentes de sécurité aucune partie des différents codes sources ne sera publié, tous le code publié et ou utilisé précédemment ne sera plus utilisé afin d'avoir un code plus propre plussécurisé et surtout mieux organisé
+- la map a évolué refaire un département demande beaucoup se travaille et de temps mais surtout de matérielle (autant côté développement mais aussi du côté des joueurs) et d'autorisation
+pour les quelque personne qui passe ou passerait sur ce projet rien à l'idée de base et changer juste retravailler afin d'atteindre les standards de qualité que l'équipe c'est fixer merci de la lecture et votre compréhension  l'équipe et moi-même
+
+EN /!\ The project has been evolving for 7 months the project will no longer be updated on github for the reasons mentioned below please refer to the project's various social networks which will be launched on Sunday 10 March 2024 the web page should arrive between 10 and 15 March 2024 the community discord is online but private from 03/03 to 10/03 2024 Beta testers still have access to it the current and definitive team will be presented on 10/03
+why not leave the code and the project on github :
+- the project is now cleaner and more professional than before, with real communication no more small projects with no real communication
+- the project is no longer a simple mod, it's a game: now, for obvious security reasons, none of the various source codes will be published, and all previously published and/or used code will no longer be used, so that the code is cleaner, more secure and, above all, better organized
+- the map has evolved: remaking a department requires a lot of work and time, but also a lot of hardware (both on the development side and on the player side) and authorization
+for the few people who pass or would pass on this project nothing to the basic idea and change just rework to reach the quality standards that the team is set thank you for reading and your understanding the team and myself
+
 # Unlimited Project
 
 EN :Project Unlimited is first and foremost an assetto corsa mod that aims to recreate the entire Puy-de-Dôme department in the Auvergne-Rhône-Alpes, France.
